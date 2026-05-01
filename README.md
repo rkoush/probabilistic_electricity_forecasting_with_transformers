@@ -142,17 +142,29 @@ deep_learning_project/
 ## References
 
 [1] L’Heureux A, Grolinger K, Capretz MAM. Transformer-Based Model for Electrical Load Forecasting. Energies. 2022; 15(14):4993. https://doi.org/10.3390/en15144993
-[2] Abumohsen M, Owda AY, Owda M. Electrical Load Forecasting Using LSTM, GRU, and RNN Algorithms. Energies. 2023; 16(5):2283. https://doi.org/10.3390/en16052283
-[3] UCI Machine Learning Repository. Electricity Load Diagrams 2011–2014. https://archive.ics.uci.edu/dataset/321/electricityloaddiagrams20112014
-[4] Hochreiter, S. and Schmidhuber, J. Long Short-Term Memory. Neural Computation, 9(8):1735–1780, 1997
-[5] Zhou, H., Zhang, S., Peng, J., Zhang, S., Li, J., Xiong, H., and Zhang, W. Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting. AAAI Conference on Artificial Intelligence, 2021.
-[6] Yi Wang, Dahua Gan, Mingyang Sun, Ning Zhang, Zongxiang Lu, Chongqing Kang. Probabilistic individual load forecasting using pinball loss guided LSTM
-[7] Kozodoi, N., Zinovyeva, E., Valentin, S., Pereira, J., & Agundez, R. (2024). Probabilistic demand forecasting with graph neural networks. arXiv preprint arXiv:2401.13096.
-[8] Dahua Gan; Yi Wang; Shuo Yang; Chongqing Kang - Embedding based quantile regression neural network for probabilistic load forecasting
-[9] Omar Bouhamed, Maher Dissem, Manar Amayri, Nizar Bouguila - Transformer-based deep probabilistic network for load forecasting
-[10] Wei Zhang, Hongyi Zhan, Hang Sun, Mao Yang - Probabilistic load forecasting for integrated energy systems based on quantile regression patch time series Transformer
-[11] Scheuerer, M., Switanek, M. B., Worsnop, R. P., & Hamill, T. M. (2020). Using artificial neural networks for generating probabilistic subseasonal precipitation forecasts over California. Monthly Weather Review, 148(8). https://journals.ametsoc.org/view/journals/mwre/148/8/mwrD200096.pdf
-[12]  Tao Hong, Shu Fan - Probabilistic electric load forecasting: A tutorial review
-[13] Guillermo Moraleda Conejo  - PROBABILISTIC RESIDENTIAL LOAD FORECASTING BASED ON LSTM RECURRENT NEURAL NETWORKS: IMPLEMENTATION AND ASSESSMENT
-[14] Syed Afraz Hussain Shah, Ubaid Ahmed, Muhammad Bilal - Improved electric load forecasting using quantile long short-term memory network with dual attention mechanism
 
+[2] Abumohsen M, Owda AY, Owda M. Electrical Load Forecasting Using LSTM, GRU, and RNN Algorithms. Energies. 2023; 16(5):2283. https://doi.org/10.3390/en16052283
+
+[3] UCI Machine Learning Repository. Electricity Load Diagrams 2011–2014. https://archive.ics.uci.edu/dataset/321/electricityloaddiagrams20112014
+
+[4] Hochreiter, S. and Schmidhuber, J. Long Short-Term Memory. Neural Computation, 9(8):1735–1780, 1997
+
+[5] Zhou, H., Zhang, S., Peng, J., Zhang, S., Li, J., Xiong, H., and Zhang, W. Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting. AAAI Conference on Artificial Intelligence, 2021.
+
+[6] Yi Wang, Dahua Gan, Mingyang Sun, Ning Zhang, Zongxiang Lu, Chongqing Kang. Probabilistic individual load forecasting using pinball loss guided LSTM
+
+[7] Kozodoi, N., Zinovyeva, E., Valentin, S., Pereira, J., & Agundez, R. (2024). Probabilistic demand forecasting with graph neural networks. arXiv preprint arXiv:2401.13096.
+
+[8] Dahua Gan; Yi Wang; Shuo Yang; Chongqing Kang - Embedding based quantile regression neural network for probabilistic load forecasting
+
+[9] Omar Bouhamed, Maher Dissem, Manar Amayri, Nizar Bouguila - Transformer-based deep probabilistic network for load forecasting
+
+[10] Wei Zhang, Hongyi Zhan, Hang Sun, Mao Yang - Probabilistic load forecasting for integrated energy systems based on quantile regression patch time series Transformer
+
+[11] Scheuerer, M., Switanek, M. B., Worsnop, R. P., & Hamill, T. M. (2020). Using artificial neural networks for generating probabilistic subseasonal precipitation forecasts over California. Monthly Weather Review, 148(8). https://journals.ametsoc.org/view/journals/mwre/148/8/mwrD200096.pdf
+
+[12]  Tao Hong, Shu Fan - Probabilistic electric load forecasting: A tutorial review
+
+[13] Guillermo Moraleda Conejo  - PROBABILISTIC RESIDENTIAL LOAD FORECASTING BASED ON LSTM RECURRENT NEURAL NETWORKS: IMPLEMENTATION AND ASSESSMENT
+
+[14] Syed Afraz Hussain Shah, Ubaid Ahmed, Muhammad Bilal - Improved electric load forecasting using quantile long short-term memory network with dual attention mechanism
